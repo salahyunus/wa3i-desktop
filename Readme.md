@@ -37,7 +37,6 @@ DB_CONFIG = {
     'database':'your_db',
     'user':'user (usually root)',
     'password':'your_password'
-}
 ```
 
 ##
@@ -50,12 +49,12 @@ config = {
     'database':'your_db',
     'user':'user (usually root)',
     'password':'your_password'
-}
+
 ```
 
 6. Navigate to `Account_DB` and run it, then run `Content_DB` then run `Main`
 
-7. Enjoy :)
+7. Enjoy --
 
 ## Technologies Used:
 
